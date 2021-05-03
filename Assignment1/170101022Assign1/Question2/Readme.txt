@@ -1,0 +1,3 @@
+Execution:
+javac distributedevaluationsystem/*.java
+java distributedevaluationsystem.DistributedEvaluationSystem
